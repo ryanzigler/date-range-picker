@@ -1,4 +1,4 @@
-import { DatePickerWithRange } from "./components/DateRangePicker"
+import { DatePickerWithRange } from "./components/DatePickerWithRange"
 
 export function App() {
   return (
